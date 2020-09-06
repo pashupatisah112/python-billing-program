@@ -1,0 +1,4 @@
+item     price     quantity
+iphone     2000     10
+laptop     3000     15
+camera     1000     20

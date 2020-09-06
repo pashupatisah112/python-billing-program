@@ -1,0 +1,12 @@
+BIJULI ELECTRONICS KTM NEPAL
+INVOICE b1002
+date and time2018-01-11 17:17:31.022364
+------------------------------------------
+customer Name:abc
+product:iphone
+number of items:5
+gross amount10000
+discount:500.0
+net amount:9500.0
+------------------------------------------
+THANK YOU...PLEASE VISIT AGAIN
